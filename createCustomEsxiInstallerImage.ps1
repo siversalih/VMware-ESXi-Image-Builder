@@ -1,6 +1,6 @@
 ﻿##############################################################################################
 # Author: Siver Salih
-# GitHub URL: https://github.com/siversalih/VMware_ESXi_Image_Builder
+# GitHub URL: https://github.com/siversalih/VMware-ESXi-Image-Builder
 # Video: https://www.youtube.com/watch?v=DbqZI1V6TK4
 # Version: 0.1
 ##############################################################################
